@@ -1,2 +1,2 @@
 # DSS
-it contain all the basic operation performed on datasets
+It contain all basic operation performed on dataset for prediction
